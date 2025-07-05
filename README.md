@@ -12,13 +12,18 @@ This study integrates dual sulfate isotopes (δ³⁴S–SO₄, δ¹⁸O–SO₄)
 ```bash
 📂 Sulfate_Source_Apportionment_SRB/
 ├── data/
-│   ├── water_chemistry_isotope_data.csv        # All river and groundwater sample data
-│   ├── source_signature_summary.csv            # Summary statistics of sulfate source isotope data
-│   └── metadata.txt                            # Description of columns and units
+│   ├── data_122019.csv                        # All river and groundwater sample data collected in Dec. 2019
+│   ├── data_052020.csv                        # All river and groundwater sample data collected in May. 2020
+│   └── data_082020.csv                        # All river and groundwater sample data collected in Aug. 2020
 ├── code/
-│   ├── MixSIAR_input_file.R                    # R script to prepare input for MixSIAR
-│   ├── MixSIAR_run_model.R                     # R script for running the model
-│   └── PCA_analysis.py                         # Python script for PCA and statistical plots
+│   ├── plot_Figure2a.py                       # Python script to plot Figure2a
+│   ├── plot_Figure2b.py                       # Python script to plot Figure2b
+│   ├── plot_Figure3.py                        # Python script to plot Figure3
+│   ├── plot_Figure4.py                        # Python script to plot Figure4
+│   │── plot_Figure6.py                        # Python script to plot Figure6
+│   │── plot_Figure7.py                        # Python script to plot Figure7
+│   │── plot_Figure8.py                        # Python script to plot Figure8
+│   └── PCA_analysis.py                        # Python script for PCA and statistical plots
 ├── figures/
 │   ├── Figure2_Boxplots.png
 │   ├── Figure3_PiperDiagram.png
@@ -32,9 +37,9 @@ This study integrates dual sulfate isotopes (δ³⁴S–SO₄, δ¹⁸O–SO₄)
 
 ## 📊 Datasets
 
-- **water_chemistry_isotope_data.csv**: Contains raw geochemical and isotopic data for all collected river water and groundwater samples during the three field campaigns.
-- **source_signature_summary.csv**: Summary of the isotope means, standard deviations, and sample sizes for each sulfate source category.
-- **metadata.txt**: Provides variable descriptions, units, and sampling protocols.
+- **data_122019.csv**: Contains raw geochemical and isotopic data for all collected river water and groundwater samples during December 2019.
+- **data_052020.csv**: Contains raw geochemical and isotopic data for all collected river water and groundwater samples during May 2020.
+- **data_082020.csv**: Contains raw geochemical and isotopic data for all collected river water and groundwater samples during August 2020.
 
 ## ⚙️ Analysis Tools
 
