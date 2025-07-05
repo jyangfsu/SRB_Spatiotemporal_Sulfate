@@ -23,14 +23,24 @@ This study integrates dual sulfate isotopes (δ³⁴S–SO₄, δ¹⁸O–SO₄)
 │   │── plot_Figure6.py                        # Python script to plot Figure6
 │   │── plot_Figure7.py                        # Python script to plot Figure7
 │   │── plot_Figure8.py                        # Python script to plot Figure8
-│   └── PCA_analysis.py                        # Python script for PCA and statistical plots
+│   │── plot_Figure9.py                        # Python script to plot Figure9
+│   │── plot_Figure10.py                       # Python script to plot Figure10
+│   └── PCA_analysis.ipynb                     # Python Jupyter notebook file for PCA analysis
 ├── figures/
-│   ├── Figure2_Boxplots.png
-│   ├── Figure3_PiperDiagram.png
-│   └── Figure4_IsotopePlots.png
+│   ├── Figure1.jpg
+│   ├── Figure2.jpg
+│   ├── Figure3.jpg
+│   ├── Figure4.jpg
+│   ├── Figure5.jpg
+│   ├── Figure6.jpg
+│   ├── Figure7.jpg
+│   ├── Figure8.jpg
+│   ├── Figure9.jpg
+│   ├── Figure10.jpg
+│   └── Figure11.jpg
 ├── results/
-│   ├── MixSIAR_outputs/
-│   └── PCA_outputs/
+│   ├── MixSIAR_inputs_outputs/               # Input and output files for MixSIAR across spatial and temporal scales
+│   └── Mantel_inputs_outputs/                # R script and associated data used to generate the initial version of Figure 5
 ├── README.md
 └── LICENSE
 ```
@@ -67,10 +77,10 @@ If you use this repository, please cite:
 
 ## 🛠 Requirements
 
-- R ≥ 4.0.0 
+- R ≥ 4.0.0 with linkET packages 
 - MixSIAR (https://github.com/brianstock/MixSIAR)
 - Python ≥ 3.9
-- Required Python packages: `pandas 2.2.3`, `numpy 1.23.1`, `matplotlib 3.5.2`, `seaborn 0.11.0`, `scipy 1.13.1`, 'statannot 0.2.3'
+- Required Python packages: `pandas 2.2.3`, `numpy 1.23.1`, `matplotlib 3.5.2`, `seaborn 0.11.0`, `scipy 1.13.1`, 'statannot 0.2.3`
 
 ## 📬 Contact
 
