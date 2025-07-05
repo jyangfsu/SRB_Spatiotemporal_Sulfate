@@ -79,7 +79,7 @@ If you use this repository, please cite:
 - R ≥ 4.0.0 with linkET packages 
 - MixSIAR (https://github.com/brianstock/MixSIAR)
 - Python ≥ 3.9
-- Required Python packages: `pandas 2.2.3`, `numpy 1.23.1`, `matplotlib 3.5.2`, `seaborn 0.11.0`, `scipy 1.13.1`, 'statannot 0.2.3`
+- Required Python packages: `pandas 2.2.3`, `numpy 1.23.1`, `matplotlib 3.5.2`, `seaborn 0.11.0`, `scipy 1.13.1`, `statannot 0.2.3`
 
 ## 📬 Contact
 
