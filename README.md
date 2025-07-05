@@ -1,8 +1,6 @@
-# Sulfate Source Apportionment and Spatiotemporal Analysis in the Shaying River Basin
-
 This repository contains the data, code, and documentation supporting the study:
 
-**"Unraveling Spatio-Temporal Variations of Water Geochemistry and Sulfate Sources in a Multi-Tributary River System"**  
+**"Unraveling Spatio-Temporal Variability of Water Geochemistry and Sulfate Sources in a Multi-Tributary River System"**  
 Submitted to *Journal of Hydrology*.
 
 ## 🧭 Overview
@@ -60,7 +58,7 @@ The provided dataset and code framework can serve as a transferable template for
 
 If you use this repository, please cite:
 
-> [Author List]. (2025). *Unraveling Spatio-Temporal Variations of Water Geochemistry and Sulfate Sources in a Multi-Tributary River System*. Journal of Hydrology. (Under review).
+> Su et al. (2025). *Unraveling Spatio-Temporal Variations of Water Geochemistry and Sulfate Sources in a Multi-Tributary River System*. Journal of Hydrology. (Under review).
 
 ## 🛠 Requirements
 
@@ -72,6 +70,6 @@ If you use this repository, please cite:
 ## 📬 Contact
 
 For questions, please contact:  
-**[Your Name]**  
+**Jing Yang**  
 College of Water Resources and Architectural Engineering, Northwest A&F University  
-Email: [your.email@domain.edu]
+Email: [jyang@nwafu.edu.cn]
