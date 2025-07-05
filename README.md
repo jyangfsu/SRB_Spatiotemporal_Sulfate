@@ -62,10 +62,10 @@ If you use this repository, please cite:
 
 ## 🛠 Requirements
 
-- R ≥ 4.0.0
+- R ≥ 4.0.0 
 - MixSIAR (https://github.com/brianstock/MixSIAR)
-- Python ≥ 3.8
-- Required Python packages: `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `scipy`
+- Python ≥ 3.9
+- Required Python packages: `pandas 2.2.3`, `numpy 1.23.1`, `matplotlib 3.5.2`, `seaborn 0.11.0`, `scipy 1.13.1`, 'statannot 0.2.3'
 
 ## 📬 Contact
 
