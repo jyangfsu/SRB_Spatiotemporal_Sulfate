@@ -1,7 +1,6 @@
 This repository contains the data, code, and documentation supporting the study:
 
-**"Unraveling Spatio-Temporal Variability of Water Geochemistry and Sulfate Sources in a Multi-Tributary River System"**  
-Submitted to *Journal of Hydrology*.
+Su et al., 2025. **"Unraveling Spatio-Temporal Variability of Water Geochemistry and Sulfate Sources in a Multi-Tributary River System"**, submitted to *Journal of Hydrology*.
 
 ## 🧭 Overview
 
@@ -87,4 +86,4 @@ If you use this repository, please cite:
 For questions, please contact:  
 **Jing Yang**  
 College of Water Resources and Architectural Engineering, Northwest A&F University  
-Email: [jyang@nwafu.edu.cn]
+Email: jyang@nwafu.edu.cn; jing.yang@126.com
