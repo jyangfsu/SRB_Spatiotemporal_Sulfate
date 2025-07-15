@@ -1,6 +1,6 @@
 This repository contains the data, code, and documentation supporting the study:
 
-Su et al., 2025. **"Unraveling Spatio-Temporal Variability of Water Geochemistry and Sulfate Sources in a Multi-Tributary River System"**, submitted to *Journal of Hydrology*.
+Su et al., 2025. **"Unraveling Spatiotemporal Variability of Water Geochemistry and Sulfate Sources in a Multi-Tributary River System"**, submitted to *Journal of Hydrology*.
 
 ## 🧭 Overview
 
