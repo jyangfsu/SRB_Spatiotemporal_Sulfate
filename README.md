@@ -72,7 +72,7 @@ The provided dataset and code framework can serve as a transferable template for
 
 If you use this repository, please cite:
 
-> Su et al. (2025). *Unraveling Spatio-Temporal Variations of Water Geochemistry and Sulfate Sources in a Multi-Tributary River System*. Journal of Hydrology. (Under review).
+> Su et al. (2025). *Unraveling Spatiotemporal Variations of Water Geochemistry and Sulfate Sources in a Multi-Tributary River System*. Journal of Hydrology. (Under review).
 
 ## 🛠 Requirements
 
